@@ -1,0 +1,12 @@
+.danger {
+  color: red;
+  font-size: 12px;
+}
+
+.removeButtons {
+  float: right;
+}
+
+.checkoutImages {
+  padding-bottom: 5rem;
+}

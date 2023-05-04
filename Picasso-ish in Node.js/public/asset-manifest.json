@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc0e12ff.css",
+    "main.js": "/static/js/main.2b6d0989.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/masterCardLogo.png": "/static/media/masterCardLogo.6a839d3d465f79813b1a.png",
+    "static/media/visaLogo.png": "/static/media/visaLogo.5ab8bcb5473a6d10c1b3.png",
+    "static/media/ian.jpg": "/static/media/ian.0a4f05e06a5b561faa08.jpg",
+    "static/media/jcbLogo.png": "/static/media/jcbLogo.b4688d665c7549e66358.png",
+    "static/media/maestroLogo.png": "/static/media/maestroLogo.5a7e33e53f2d9a2bb721.png",
+    "static/media/unionPayLogo.png": "/static/media/unionPayLogo.b2a99b4dd29e73dc9807.png",
+    "static/media/magnus.jpg": "/static/media/magnus.16f62acdd102ff29c10b.jpg",
+    "static/media/miguel.jpg": "/static/media/miguel.8c49bded409f7c4ecf7e.jpg",
+    "static/media/aleks.jpg": "/static/media/aleks.1e3c0e7f87f2859af94c.jpg",
+    "static/media/dinersClubLogo.png": "/static/media/dinersClubLogo.094c12e247119644249d.png",
+    "index.html": "/index.html",
+    "main.dc0e12ff.css.map": "/static/css/main.dc0e12ff.css.map",
+    "main.2b6d0989.js.map": "/static/js/main.2b6d0989.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc0e12ff.css",
+    "static/js/main.2b6d0989.js"
+  ]
+}

@@ -1,0 +1,17 @@
+.Create-Account-Text {
+  padding-bottom: 20px;
+}
+
+.signUpForm {
+  padding-bottom: 25px;
+}
+
+.sign-in-text {
+  position: relative;
+  right: 40px;
+  padding-top: 20px;
+}
+
+.danger {
+  color: red;
+}
